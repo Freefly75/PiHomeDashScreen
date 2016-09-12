@@ -30,7 +30,7 @@ je vais y rajouter les informations de températures de mes différents capteurs
 
 
 Outils : 
-Lien me donnant des outils pour enrichir ma page avec des infos comme l'éphéméride, les dictions du jour ou les horaires du soleil Etc.....
+Lien me donnant des outils pour enrichir ma page avec des infos comme l'éphéméride, les dictons du jour ou les horaires du soleil, il y en a d'autres ....
 
 
 
